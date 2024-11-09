@@ -51,7 +51,7 @@ fun Intellectual(navController: NavController, modifier: Modifier = Modifier, vi
             imageRes = R.drawable.math1,
             description = "¡Desafía tu mente y agudiza tus habilidades de cálculo!",
             onClick = {
-//                navController.navigate(Screen.MathGame.route)// Navigate to Math Game
+                navController.navigate(Screen.Matematicas.route)// Navigate to Math Game
             }
         )
 
