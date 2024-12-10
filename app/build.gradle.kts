@@ -77,6 +77,7 @@ dependencies {
 
 
 
+
     //Icons Extendidos
     implementation("androidx.compose.material:material-icons-extended:1.3.1")
     implementation ("io.coil-kt:coil-compose:2.3.0")  // Última versión estable
@@ -91,6 +92,7 @@ dependencies {
     implementation ("com.google.firebase:firebase-auth-ktx")
     implementation(platform("com.google.firebase:firebase-bom:31.2.2"))
     implementation ("com.google.firebase:firebase-firestore-ktx")
+
 
 
 
