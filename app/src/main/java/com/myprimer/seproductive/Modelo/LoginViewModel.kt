@@ -17,7 +17,7 @@ import kotlinx.coroutines.launch
 
 class LoginViewModel : ViewModel() {
 
-    private val auth: FirebaseAuth = Firebase.auth
+    var auth: FirebaseAuth = Firebase.auth
     private val _loading = MutableLiveData(false)
 
 
