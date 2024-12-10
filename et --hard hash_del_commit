@@ -1,0 +1,24 @@
+[33m6acf327[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m HEAD@{0}: commit (amend): Se creo un fun composable con funciones completas en page Idiomas.
+[33mb81baa7[m HEAD@{1}: commit (amend): Se creo un fun composable con funciones completas en page Idiomas.
+[33mffad28a[m HEAD@{2}: reset: moving to HEAD
+[33mffad28a[m HEAD@{3}: commit: Se creo un fun composable con funciones completas en page Idiomas.
+[33m2a38b35[m HEAD@{4}: reset: moving to HEAD
+[33m2a38b35[m HEAD@{5}: commit (amend): Se creo un fun composable con funciones completas en page Idiomas.
+[33mef44171[m HEAD@{6}: commit (amend): Se creo QuestionDao.kt , y QuestionDatabase.kt
+[33mca32518[m HEAD@{7}: reset: moving to HEAD
+[33mca32518[m HEAD@{8}: commit (amend): Se creo QuestionDao.kt , y QuestionDatabase.kt
+[33m42357e8[m HEAD@{9}: reset: moving to HEAD
+[33m42357e8[m HEAD@{10}: commit (amend): Se creo QuestionDao.kt , y QuestionDatabase.kt
+[33m0b134b5[m HEAD@{11}: reset: moving to HEAD
+[33m0b134b5[m HEAD@{12}: commit: funcion creada CulturaGeneral.kt y cree culturageneralviewmodel.kt
+[33meeb48eb[m HEAD@{13}: commit (amend): funcion creada CulturaGeneral.kt y cree culturageneralviewmodel.kt
+[33m178ff79[m HEAD@{14}: rebase (finish): returning to refs/heads/master
+[33m178ff79[m HEAD@{15}: rebase (pick): funcion creada CulturaGeneral.kt y cree culturageneralviewmodel.kt
+[33m670623b[m HEAD@{16}: rebase (pick): funcion creada CulturaGeneral.kt y cree culturageneralviewmodel.kt
+[33mb782de5[m HEAD@{17}: rebase (start): checkout origin/master
+[33mc45ebfd[m HEAD@{18}: commit (amend): funcion creada CulturaGeneral.kt y cree culturageneralviewmodel.kt
+[33m2a71790[m HEAD@{19}: commit (amend): funcion creada CulturaGeneral.kt y cree culturageneralviewmodel.kt
+[33m90861f9[m HEAD@{20}: commit (amend): funcion creada CulturaGeneral.kt y cree culturageneralviewmodel.kt
+[33md7f0e37[m HEAD@{21}: commit: funcion creada CulturaGeneral.kt y cree culturageneralviewmodel.kt
+[33mb403c04[m HEAD@{22}: commit (amend): funcion creada CulturaGeneral.kt y cree culturageneralviewmodel.kt
+[33mb782de5[m HEAD@{23}: commit (initial): Initial commit
